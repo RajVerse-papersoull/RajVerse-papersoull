@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Raj Kumar</h1>
+<h3 align="center">Mathematician | AI Researcher | Founder @ PaperSoul</h3>
 
-<!--
-**RajVerse-papersoull/RajVerse-papersoull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Building AI for Education
+- Handwritten Exam Evaluation System
+- Math + Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+Python • AI • Machine Learning • Swift • Firebase • UI/UX • Mathematics
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=RajVerse-papersoull&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajVerse-papersoull&layout=compact&theme=tokyonight)
+
+---
+
+## 🔮 Future Goals
+- Publish Research Paper
+- Build AI Education Platform
+- Launch PaperSoul Product
