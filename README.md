@@ -10,6 +10,15 @@
 
 ---
 
+## 🛰️ Research & Satellite Imaging Work
+
+- Working on **Satellite Image Analysis for Road Detection**
+- Participated in **ISRO RESPOND Programme related problem statements**
+- Exploring **Remote Sensing + Computer Vision + GIS**
+- Focus: Infrastructure Mapping, Smart Cities & AI-based Road Segmentation
+
+---
+
 ## 🛠 Skills
 Python • AI • Machine Learning • Swift • Firebase • UI/UX • Mathematics
 
