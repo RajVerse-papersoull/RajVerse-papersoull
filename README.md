@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Raj Kumar</h1>
-<h3 align="center">Mathematician | AI Researcher | Founder @ PaperSoul</h3>
+<h3 align="center">Mathematician | AI Researcher | Founder @ PaperSoull</h3>
 
 ---
 
